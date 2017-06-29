@@ -18,4 +18,4 @@ def add1_friend():
     else:
         print "sorry!Invalid entry.we can/'t add spy with the details you provided"
     return len(friend_name)
-add1_friend()
+
